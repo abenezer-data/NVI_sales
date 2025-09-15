@@ -8,4 +8,5 @@ I did this Project during my internship at National Veterinary Institute (NVI) t
 - Interactive Power BI dashboard
 
 ## 📸 Dashboard Preview
-![Dashboard Overview](Screenshot_15-9-2025_122021.jpeg)
+![Dashboard Overview](screenshots/Screenshot_15-9-2025_122021.jpeg)
+
